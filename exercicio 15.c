@@ -14,5 +14,5 @@ void main() {
   scanf("%f",&c);
 
   printf("escolhidos:%c\n                 %d\n                       %f",a,b,c);
-  return 0
+  return 0;
 }
