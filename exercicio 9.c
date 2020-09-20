@@ -9,5 +9,5 @@ void main() {
 
   printf("o segundo valor digitado foi:%f", b);
   printf("\no primeiro valor digitado foi:%f",a);
-  return 0
+  return 0;
 }
