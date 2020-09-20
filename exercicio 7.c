@@ -6,5 +6,6 @@ void main() {
   char a = 0;
   printf("digite o valor de %c", a);
   scanf("%d",&a);
-  printf("o valor de a é: %d", a);
+  printf("o valor de a Ã©: %d", a);
+  return 0
 }
