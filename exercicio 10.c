@@ -15,6 +15,6 @@ void main() {
   scanf("%d",&ano);
 
   printf("%02d/%02d/%d",dia,mes,ano);
-  return 0
+  return 0;
 }
 
