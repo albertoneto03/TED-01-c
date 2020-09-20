@@ -7,5 +7,5 @@ void main() {
   printf("digite o valor de a");
   scanf("%d",&a);
   printf("o valor de a é: %d", a);
-  return 0
+  return 0;
 }
