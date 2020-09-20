@@ -11,5 +11,5 @@ void main() {
 
   printf("o segundo valor digitado foi:%d", b);
   printf("\no primeiro valor digitado foi:%d",a);
-  return 0
+  return 0;
 }
