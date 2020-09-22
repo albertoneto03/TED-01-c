@@ -9,4 +9,5 @@ void main() {
   scanf(" %c",&c);
 
   printf("as letras que voce digitou foram: \n%c \n%c \n%c",a,b,c);
+  return 0;
 }
